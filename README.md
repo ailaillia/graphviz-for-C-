@@ -1,2 +1,2 @@
-# graphviz-for-C-
+# graphviz-for-C-Sharp
 Use graphviz on C# platform
